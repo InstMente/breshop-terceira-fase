@@ -8,7 +8,7 @@ Uma plataforma exclusiva para a compra e venda de roupas, oferecendo uma experi�
 
 [Eduardo C. Gatti](https://github.com/eduardgatti)
 
-[Michael D. Nazário](https://github.com/michaelnazaio)
+[Michael D. Nazário](https://github.com/mdnazario)
 
 [Pedro H. da Silva Salles](https://github.com/pedroking2310)
 

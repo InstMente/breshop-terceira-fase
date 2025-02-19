@@ -5,9 +5,13 @@ Uma plataforma exclusiva para a compra e venda de roupas, oferecendo uma experi�
 ## Integrantes:
 
 [Gabriel O. Bion](https://github.com/bion23ouriquess)
+
 [Eduardo C. Gatti](https://github.com/eduardgatti)
+
 [Michael D. Nazário](https://github.com/mdnazario)
+
 [Pedro H. da Silva Salles](https://github.com/pedroking2310)
+
 [Robert V. Nazário](https://github.com/rvnaza)
 
 ## Protótipos de Tela
